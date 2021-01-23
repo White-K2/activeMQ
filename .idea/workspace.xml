@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca9d0273-8df1-47b7-a3b6-bc6873c73a7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Developer\Maven_work\maven_repository" />
+        <option name="mavenHome" value="F:/Developer/MAVEN/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\Developer\MAVEN\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="generatedSourcesFolder" value="IGNORE" />
+        <option name="jdkForImporter" value="jdk1.8.0_121" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="jdk1.8.0_121" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1mVMuN2RaUskDnmXKfLO4G5TEt4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.activemq" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JmsConsumer_TX">
+    <configuration name="JmsConsumer_TX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.activemq.tx.JmsConsumer_TX" />
+      <module name="activemq_demo" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=utf-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.activemq.tx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JmsConsumer_Topic_Persist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.activemq.JmsConsumer_Topic_Persist" />
+      <module name="activemq_demo" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=utf-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.activemq.tx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JmsProduce_Topic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.activemq.topic.JmsProduce_Topic" />
+      <module name="activemq_demo" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=utf-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.activemq.tx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JmsProduce_Topic_Persist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.activemq.JmsProduce_Topic_Persist" />
+      <module name="activemq_demo" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=utf-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.activemq.tx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JmsProducer_TX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.activemq.tx.JmsProducer_TX" />
+      <module name="activemq_demo" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=utf-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.activemq.tx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JmsProduce_Topic" />
+      <item itemvalue="Application.JmsProduce_Topic_Persist" />
+      <item itemvalue="Application.JmsConsumer_Topic_Persist" />
+      <item itemvalue="Application.JmsProducer_TX" />
+      <item itemvalue="Application.JmsConsumer_TX" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JmsConsumer_TX" />
+        <item itemvalue="Application.JmsProducer_TX" />
+        <item itemvalue="Application.JmsConsumer_Topic_Persist" />
+        <item itemvalue="Application.JmsProduce_Topic_Persist" />
+        <item itemvalue="Application.JmsProduce_Topic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca9d0273-8df1-47b7-a3b6-bc6873c73a7b" name="Default Changelist" comment="" />
+      <created>1609574526268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609574526268</updated>
+      <workItem from="1609574529541" duration="11927000" />
+      <workItem from="1609728079631" duration="5073000" />
+      <workItem from="1611365884379" duration="10907000" />
+      <workItem from="1611381889237" duration="3192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611382410597">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="385" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1611382410597" />
+    <state width="1431" height="199" key="GridCell.Tab.0.bottom" timestamp="1611382387381">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="199" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1611382387381" />
+    <state width="1431" height="199" key="GridCell.Tab.0.center" timestamp="1611382387381">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="199" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1611382387381" />
+    <state width="1431" height="199" key="GridCell.Tab.0.left" timestamp="1611382387380">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="199" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1611382387380" />
+    <state width="1431" height="199" key="GridCell.Tab.0.right" timestamp="1611382387381">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="199" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1611382387381" />
+    <state x="436" y="13" key="SettingsEditor" timestamp="1611386512270">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="436" y="13" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1611386512270" />
+    <state x="143" y="95" key="new project wizard" timestamp="1609574561337">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="143" y="95" key="new project wizard/0.0.1474.864@0.0.1474.864" timestamp="1609574561337" />
+    <state x="770" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1609575337315">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="770" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1609575337315" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+com\atguigu\activemq\JmsProducer_TX.class
+com\atguigu\activemq\JmsConsumer_TX.class
+com\atguigu\activemq\JmsConsumer_Topic.class
+com\atguigu\activemq\JmsProduce.class
+com\atguigu\activemq\JmsProduce_Topic.class
+com\atguigu\activemq\JmsConsumer.class
+com\atguigu\activemq\JmsConsumer_Topic_Persist.class
+com\atguigu\activemq\JmsProduce_Topic_Persist.class
